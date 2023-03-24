@@ -1,4 +1,4 @@
-# Periodic Table 
+# Periodic Table Database
 #### Open [`file solution.txt`](solution.txt) To follow my terminal command. Solutions divided into several steps :
     1. Create Database and connect to it.
     2. Create tables as required conditions.
@@ -11,7 +11,7 @@
 #### Solution can be found on : 
 [https://replit.com/@ViktoriusSuwand/Periodic-Table-Database](https://replit.com/@ViktoriusSuwand/Periodic-Table-Database)
 
-#### Documentation can be found on : [https://github.com/viktoriussuwandi/Salon-Appointment-Scheduler](https://github.com/viktoriussuwandi/Salon-Appointment-Scheduler)
+#### Documentation can be found on :[https://github.com/viktoriussuwandi/Periodic-Table-Database](https://github.com/viktoriussuwandi/Periodic-Table-Database)
 
 This is the result to complete the Periodic Table Database project. 
 Instructions for building this project can be found at 
