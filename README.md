@@ -67,6 +67,7 @@ If you are saving your progress on [freeCodeCamp.org](https://www.freecodecamp.o
 30. Finish the project while on the `main branch`. The `working tree` should be `clean` and it should not have any `uncommitted changes`.
 
 ## Result
+
 ### Testing
 ![Testing](testing.jpg)
 
