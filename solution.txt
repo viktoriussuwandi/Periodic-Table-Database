@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------
-1.Compact sql db schema into periodic_table.sql
+1.Compact sql db queries into periodic_table.sql
 ----------------------------------------------------------------------------
 pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
 
