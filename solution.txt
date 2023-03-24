@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------
+1.Compact sql db schema into periodic_table.sql
+----------------------------------------------------------------------------
+pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+
+----------------------------------------------------------------------------
+2.Prepare git directory
+----------------------------------------------------------------------------
+mkdir periodic_table
+cd periodic_table
+git init
+git checkout -b main
+git commit -m "Initial commit"
+
+----------------------------------------------------------------------------
+3.Prepare shell scipt files
+----------------------------------------------------------------------------
+touch element.sh
+touch fix_database.sh
+chmod +x element.sh
+chmod +x fix_database.sh
+git commit -m "refactor: create & give executable permissions on element.sh"
+
+----------------------------------------------------------------------------
+4. Copy scipts and run the scripts (fix db first)
+----------------------------------------------------------------------------
+./periodic_table/fix_database.sh
+git commit -m "fix: periodic table"
+
+./periodic_table/element.sh
+git commit -m "chore: create main program and printout the output"
+
+git commit -m "chore: testing the program"
+
+
