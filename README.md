@@ -5,9 +5,6 @@
     3. Prepare shell scipt files.
     4. Copy scipts and run the scripts (fix db first)
 
-#### Solution can be found on : 
-[https://replit.com/@ViktoriusSuwand/Periodic-Table-Database](https://replit.com/@ViktoriusSuwand/Periodic-Table-Database)
-
 #### Documentation can be found on :[https://github.com/viktoriussuwandi/Periodic-Table-Database](https://github.com/viktoriussuwandi/Periodic-Table-Database)
 
 This is the result to complete the Periodic Table Database project. 
